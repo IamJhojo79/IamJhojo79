@@ -95,7 +95,7 @@
         <header>
           <h1>WELCOME TO OUR VACATION</h1>
         </header>
-        <a href="file:///D:/Mata Kuliah/Semester 3/Praktikum Pemrograman Web Client/program prak PWC/presentasiPWC.html" href="#" class="my-button">THIS IS OUR VACATION</a>
+        <a href="presentasiPWC.html" href="#" class="my-button">THIS IS OUR VACATION</a>
       </nav>
     </div>
   </div>
