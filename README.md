@@ -7,7 +7,7 @@
   <title>Halaman Beranda</title>
   <style>
     body {
-      background-image: url('Pemandangan-Laut-Raja-Ampat-Yang-Indah.jpg');
+      background-image: url('https://github.com/IamJhojo79/tugasPWC/blob/main/Pemandangan-Laut-Raja-Ampat-Yang-Indah.jpg');
       background-size: cover;
       background-position: center;
       font-family: 'kristen itc', sans-serif;
