@@ -7,7 +7,7 @@
   <title>Halaman Beranda</title>
   <style>
     body {
-      background-image: url('D:/Mata Kuliah/Semester 3/Praktikum Pemrograman Web Client/program prak PWC/Pemandangan-Laut-Raja-Ampat-Yang-Indah.jpg');
+      background-image: url('Pemandangan-Laut-Raja-Ampat-Yang-Indah.jpg');
       background-size: cover;
       background-position: center;
       font-family: 'kristen itc', sans-serif;
