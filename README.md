@@ -1,6 +1,6 @@
 Sedikit penjelasan mengenai web kami 
 
-Halaman Beranda (`brndpresentasiPWC.html`):
+[Halaman Beranda](https://github.com/IamJhojo79/tugasPWC/blob/main/brndpresentasiPWC.html)
 1. Tampilan Utama:
    - Halaman ini merupakan halaman beranda dengan latar belakang gambar pemandangan.
    - Header berisi judul "WELCOME TO OUR VACATION".
